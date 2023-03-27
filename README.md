@@ -1,5 +1,5 @@
 ### Education
-Amherst College, 2019-2023: B.A., physics & mathematics
+Amherst College, 2019-2023: B.A., physics & mathematics (GPA: 4.0)
   
 ### Research Interests
 * Gravitational-wave parameter estimation and populations
@@ -7,9 +7,11 @@ Amherst College, 2019-2023: B.A., physics & mathematics
 * Astrostatistics
 
 ### Publications
-* [Concurrent estimation of noise and compact-binary parameters in gravitational-wave data](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.104021) 
-
+* Plunkett, Hourihane, Chatziioannou. [Concurrent estimation of noise and compact-binary parameters in gravitational-wave data](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.104021) (arXiv:2208.02291, PRD 106.104021, Nov. 2022) 
 ### Outreach
+* Chair, [Climate and Community Committee](https://www.amherst.edu/academiclife/departments/physics/equity-inclusion/climate-and-community-committee)
+* Co-president, Spectra Physics & Astronomy club
+* Student Manager, Amherst College Observatory
 
 ### CV
 View my full [CV](./CV_2022Nov.pdf) (updated November 2022)
