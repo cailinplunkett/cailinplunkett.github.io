@@ -2,7 +2,7 @@
 MIT, PhD candidate in Physics (Fall 2023-)
 
 Amherst College, 2019-2023: B.A., physics & mathematics (GPA: 4.0)
-
+  
 ### Research Interests
 * Gravitational-wave parameter estimation and populations
 * Compact-object astrophysics

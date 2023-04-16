@@ -1,8 +1,78 @@
-theme: jekyll-theme-minimal
-title: Cailin Plunkett
-description: physics & math student, aspiring gravitational physicist
-author:
-  name             : "Cailin Plunkett"
-  avatar           : /headshot.jpg
-  location         : "Amherst, MA"
-  email            : "cplunkett23@amherst.edu
+# Set theme
+remote_theme: daviddarnes/alembic@main
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://cailinplunkett.github.io/'
+baseurl: ''
+title: 'Cailin Plunkett'
+description: 'Physics and math student, aspriring gravitational physicist'
+permalink: pretty
+logo: "./assets/headshot.jpeg"
+email: cplunkett23@amherst.edu
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Research
+  url: /research/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+sharing_links:
+- LinkedIn: https://www.linkedin.com/in/cailin-p-78b129206/ 
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: "My thoughts and ideas"
+    feature_text: |
+      Welcome to my blog
+    feature_image: "https://picsum.photos/2560/600?image=866"
+
+# Collection settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
+
+sharing_links: {%include nav-share.html %}
