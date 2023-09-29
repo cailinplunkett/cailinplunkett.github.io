@@ -50,16 +50,6 @@ navigation_footer:
 sharing_links:
 - LinkedIn: https://www.linkedin.com/in/cailin-p-78b129206/ 
 
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
-
 # Collection settings
 defaults:
   -
@@ -74,5 +64,3 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
-
-sharing_links: {%include nav-share.html %}
