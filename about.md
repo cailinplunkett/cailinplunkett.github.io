@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/headshot.jpeg "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/headshot.JPG "Profile Picture"){:.profile}
 
 I'm a second-year Physics Ph.D. student at MIT studying gravitational-wave astrophysics with Salvatore Vitale. I'm exploring black hole populations and binary star evolution with current and next-generation gravitational-wave detectors.
 
