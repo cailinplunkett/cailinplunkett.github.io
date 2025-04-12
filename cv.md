@@ -9,16 +9,18 @@ main_nav: true
 
 # Cailin Plunkett
 
+caplunk@mit.edu
+
 ### Research Interests
 
 Probing black hole properties and binary star evolution using gravitational-wave and multimessenger data.
 
 ### Education
 
-*Massachusetts Institute of Technology*, Cambridge, MA (Aug. 2023 -- present).
+*Massachusetts Institute of Technology*, Cambridge, MA (Aug. 2023 -- present)\
 Graduate student in Physics.
 
-*Amherst College*, Amherst, MA. (Sept. 2019 -- May 2023)
+*Amherst College*, Amherst, MA. (Sept. 2019 -- May 2023)\
 Bachelor of Arts in Physics and Mathematics. Summa cum laude with distinction (GPA: 4.0/4.0).
 
 ### Awards and Honors
@@ -40,9 +42,9 @@ Bachelor of Arts in Physics and Mathematics. Summa cum laude with distinction (G
 
 ### Publications
 
-1. **Plunkett, C.**; Mould, M.; Vitale, S. "Constraining Population III stellar populations with next-generation gravitational-wave observatories." In preparation.
+1. **Plunkett, C.**; Mould, M.; Vitale, S. Constraining Population III stellar populations with next-generation gravitational-wave observatories. In preparation.
 
-2. **Plunkett, C.**; Follette, K.; Marleau, G-D; Nielsen, E. ["Accreting companion occurrence rates using a new method to compute emission-line survey sensitivity."](https://arxiv.org/abs/2408.01491) Accepted to *AJ*, 2025.
+2. **Plunkett, C.**; Follette, K.; Marleau, G-D; Nielsen, E. [Accreting companion occurrence rates using a new method to compute emission-line survey sensitivity.](https://arxiv.org/abs/2408.01491) Accepted to *AJ*, 2025.
 
 3. **Plunkett, C.**; Hourihane, S.; Chatziioannou, K. [Concurrent estimation of noise and compact-binary signal parameters in gravitational-wave data.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.104021) *PRD* 106, 104021, Nov. 2022.
 
