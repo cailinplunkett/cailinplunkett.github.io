@@ -16,6 +16,13 @@ pagination:
 </div>
 
 <div class="wrapper">
+
+{% if site.intro_paragraph %}
+<div class="intro-paragraph">
+  <p>{{ site.intro_paragraph }}</p>
+</div>
+{% endif %}
+
 <ul class="post-list">
   {% for post in paginator.posts %}
   <li>
