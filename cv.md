@@ -5,7 +5,7 @@ permalink: /cv/
 main_nav: true
 ---
 
-**View my [CV](./CV_25Apr.pdf) in pdf form (updated April 2025).**
+**View my [CV](./CV_25Jul.pdf) in pdf form (updated July 2025).**
 
 # Cailin Plunkett
 
@@ -18,7 +18,7 @@ Probing black hole properties and binary star evolution using gravitational-wave
 ### Education
 
 *Massachusetts Institute of Technology*, Cambridge, MA (Aug. 2023 -- present)\
-Graduate student in Physics.
+Ph.D. candidate in Physics
 
 *Amherst College*, Amherst, MA. (Sept. 2019 -- May 2023)\
 Bachelor of Arts in Physics and Mathematics. Summa cum laude with distinction (GPA: 4.0/4.0).
@@ -42,7 +42,7 @@ Bachelor of Arts in Physics and Mathematics. Summa cum laude with distinction (G
 
 ### Publications
 
-1. **Plunkett, C.**; Mould, M.; Vitale, S. Constraining Population III stellar populations with next-generation gravitational-wave observatories. In preparation.
+1. **Plunkett, C.**; Mould, M.; Vitale, S. [Constraining Population III stellar demogrphics with next-generation gravitational-wave observatories](https://journals.aps.org/prd/abstract/10.1103/jv8h-4ggy). *PRD* 112 023039 (2025).
 
 2. **Plunkett, C.**; Follette, K.; Marleau, G-D; Nielsen, E. [Accreting companion occurrence rates using a new method to compute emission-line survey sensitivity.](https://iopscience.iop.org/article/10.3847/1538-3881/adc09d) *AJ* 169 262 (2025).
 
