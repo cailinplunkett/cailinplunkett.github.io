@@ -35,7 +35,7 @@ Bachelor of Arts in Physics and Mathematics. Summa cum laude with distinction (G
 **Institutional**
 - Kellogg Fellowship (\$90,000 over three years), *Amherst College* (2025 -- 8)
 - Three Minute Thesis, People's Choice Award, *Amherst College* (2023)
--- Bancroft Prize in Public Speaking, *Amherst College* (2023)
+- Bancroft Prize in Public Speaking, *Amherst College* (2023)
 - William Warren Stifler Prize in Physics, *Amherst College* (2023)
 - Mary Dailey Irvine Outstanding Thesis, *Five College Astronomy Dept.* (2023)
 - Porter Prize in Astronomy, *Amherst College* (2020)
