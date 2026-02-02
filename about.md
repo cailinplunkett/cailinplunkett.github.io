@@ -14,5 +14,5 @@ I grew up in Oakland, CA and majored in Mathematics and Physics at Amherst Colle
 Baker, biker, skier, hiker, gymnast, reader.
 
 
-**View my full [CV](./CV_26Feb.pdf) (updated Feb. 2026).**
+**View my full [CV](../CV_26Feb.pdf) (updated Feb. 2026).**
 
