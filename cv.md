@@ -5,7 +5,7 @@ permalink: /cv/
 main_nav: true
 ---
 
-**View my [CV](../CV_26Feb.pdf) in pdf form (updated Feb. 2026).**
+**View my [CV](/CV_26Feb.pdf) in pdf form (updated Feb. 2026).**
 
 # Cailin Plunkett
 
