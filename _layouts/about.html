@@ -1,0 +1,118 @@
+---
+layout: default
+---
+<style>
+.about-page {
+  background: #0f1f17;
+  min-height: calc(100vh - 66px);
+  padding: 3em 4em 4em;
+  color: rgba(255,255,255,0.9);
+}
+.about-page .about-inner {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+/* Top bio section */
+.about-page .about-bio {
+  display: flex;
+  gap: 3em;
+  align-items: flex-start;
+  margin-bottom: 3em;
+}
+.about-page .about-photo {
+  flex: 0 0 180px;
+}
+.about-page .about-photo img {
+  width: 180px;
+  height: 220px;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
+  border: 3px solid #d4c5f0;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+}
+.about-page .about-text {
+  flex: 1 1 auto;
+  padding-top: 0.25em;
+}
+.about-page .about-text h1 {
+  font-size: 2em;
+  color: #fff;
+  margin-bottom: 0.4em;
+  border-left: 3px solid #d4c5f0;
+  padding-left: 0.5em;
+  margin-left: -0.65em;
+}
+.about-page .about-text p {
+  line-height: 1.7;
+  margin-bottom: 0.8em;
+}
+.about-page .about-text a {
+  color: #d4c5f0;
+}
+.about-page .about-text a:hover { text-decoration: underline; }
+
+/* Hobbies section */
+.about-page .about-hobbies {
+  border-top: 1px solid rgba(255,255,255,0.1);
+  padding-top: 2.5em;
+}
+.about-page .about-hobbies h2 {
+  font-size: 1.25em;
+  color: #d4c5f0;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.about-page .about-hobbies p {
+  line-height: 1.7;
+  margin-bottom: 1em;
+}
+.about-page .about-hobbies a { color: #d4c5f0; }
+.about-page .about-hobbies a:hover { text-decoration: underline; }
+
+/* Photo grid */
+.about-page .photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75em;
+  margin-top: 1.5em;
+}
+.about-page .photo-grid .photo-slot {
+  border-radius: 0;
+  overflow: hidden;
+  background: transparent;
+}
+.about-page .photo-grid figure {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+.about-page .photo-grid img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
+.about-page .photo-grid figcaption {
+  padding: 0.4em 0.2em;
+  font-size: 0.78em;
+  color: rgba(255,255,255,0.5);
+  text-align: center;
+  border-bottom: 2px solid #d4c5f0;
+}
+
+@media (max-width: 600px) {
+  .about-page { padding: 2em 1.5em 3em; }
+  .about-page .about-bio { flex-direction: column; align-items: center; text-align: center; }
+  .about-page .photo-grid { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+
+<div class="about-page">
+  <div class="about-inner">
+    {{ content }}
+  </div>
+</div>

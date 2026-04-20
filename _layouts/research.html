@@ -1,0 +1,100 @@
+---
+layout: default
+---
+<style>
+.research-page {
+  background: #0f1f17;
+  min-height: calc(100vh - 66px);
+  padding: 3em 4em 4em;
+  color: rgba(255,255,255,0.9);
+}
+.research-page .research-inner {
+  max-width: 780px;
+  margin: 0 auto;
+}
+.research-page .research-intro {
+  margin-bottom: 2.5em;
+}
+.research-page .research-intro h1 {
+  font-size: 2em;
+  color: #fff;
+  margin-bottom: 0.5em;
+  border-left: 3px solid #d4c5f0;
+  padding-left: 0.5em;
+  margin-left: -0.65em;
+}
+.research-page .research-intro p { line-height: 1.7; }
+.research-page .research-intro strong { color: #fff; }
+
+.research-page .research-channels {
+  margin-bottom: 2.5em;
+}
+.research-page .research-channels h2 {
+  font-size: 1.25em;
+  color: #d4c5f0;
+  margin-bottom: 0.6em;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.research-page .research-channels p { line-height: 1.7; }
+.research-page .research-channels em { color: rgba(255,255,255,0.9); }
+
+.research-page .research-projects h2 {
+  font-size: 1.25em;
+  color: #d4c5f0;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.research-page .project-item {
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 4px;
+  margin-bottom: 1.25em;
+  background: rgba(255,255,255,0.04);
+}
+.research-page .project-item summary {
+  padding: 0.85em 1.1em;
+  cursor: pointer;
+  font-weight: 700;
+  font-style: italic;
+  color: #fff;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.research-page .project-item summary::-webkit-details-marker { display: none; }
+.research-page .project-item summary::after {
+  content: '+';
+  font-size: 1.2em;
+  color: #d4c5f0;
+  font-style: normal;
+}
+.research-page .project-item[open] > summary::after { content: '−'; }
+.research-page .project-item .project-body {
+  padding: 0 1.1em 1em;
+  line-height: 1.65;
+  color: rgba(255,255,255,0.75);
+}
+.research-page .project-item .project-body .project-authors {
+  font-size: 0.88em;
+  color: rgba(255,255,255,0.5);
+  margin-bottom: 0.5em;
+}
+.research-page .project-item .project-body a { color: #d4c5f0; }
+.research-page .project-item .project-body a:hover { text-decoration: underline; }
+
+.research-page .research-cv-link {
+  margin-top: 2.5em;
+  color: rgba(255,255,255,0.5);
+  font-size: 0.95em;
+}
+.research-page .research-cv-link a { color: #d4c5f0; }
+.research-page .research-cv-link a:hover { text-decoration: underline; }
+</style>
+
+<div class="research-page">
+  <div class="research-inner">
+    {{ content }}
+  </div>
+</div>

@@ -1,13 +1,15 @@
 ---
-layout: page
+layout: cv
 title: CV
 permalink: /cv/
 main_nav: true
 ---
 
-**View my [CV](/CV_26Feb.pdf) in pdf form (updated Feb. 2026).**
+# CV
 
-# Cailin Plunkett
+## Cailin Plunkett
+
+<a href="/CV_26Feb.pdf" class="cv-pdf-btn" target="_blank">View PDF (Feb. 2026)</a>
 
 ---
 
@@ -21,12 +23,12 @@ Probing black hole properties and binary star evolution using gravitational-wave
 
 **Massachusetts Institute of Technology** — *Cambridge, MA*  
 *Ph.D. candidate in Physics* (advisor: Salvatore Vitale)  
-Aug. 2023 – present
+Aug. 2023 – present (expected May 2028)
 
 **Amherst College** — *Amherst, MA*  
 *B.A. in Physics and Mathematics*  
-Sept. 2019 – May 2023  
 Summa cum laude with distinction (GPA: 4.0/4.0)
+Sept. 2019 – May 2023  
 
 ---
 
