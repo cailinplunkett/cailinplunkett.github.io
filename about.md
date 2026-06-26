@@ -31,15 +31,15 @@ main_nav: true
   <div class="photo-grid">
     <figure class="photo-slot">
       <img src="{{ site.baseurl }}/assets/about/half-dome.jpg" alt="Half Dome" style="object-position: center 20%;">
-      <figcaption>Descending Half Dome (June 2025)</figcaption>
+      <figcaption>Descending Half Dome</figcaption>
     </figure>
     <figure class="photo-slot">
       <img src="{{ site.baseurl }}/assets/about/rae-lakes.jpg" alt="Rae Lakes">
-      <figcaption>Rae Lakes Loop with my mom (July 2025)</figcaption>
+      <figcaption>Hiking into Rae Lakes</figcaption>
     </figure>
     <figure class="photo-slot">
       <img src="{{ site.baseurl }}/assets/about/tahoe.jpg" alt="Lake Tahoe">
-      <figcaption>Winter happy place (Lake Tahoe)</figcaption>
+      <figcaption>Winter happy place</figcaption>
     </figure>
     <figure class="photo-slot">
       <img src="{{ site.baseurl }}/assets/about/mango.JPEG" alt="Mango">
