@@ -9,13 +9,13 @@ main_nav: true
 
 ## Cailin Plunkett
 
-<a href="/CV_26Feb.pdf" class="cv-pdf-btn" target="_blank">View PDF (Feb. 2026)</a>
+<a href="/CV_26July.pdf" class="cv-pdf-btn" target="_blank">View PDF (July 2026)</a>
 
 ---
 
 ## Research Interests
 
-Probing black hole properties and binary star evolution using gravitational-wave data, with an emphasis on both data-driven and simulation-based methods.
+Probing black hole properties and binary star evolution using gravitational-wave data. Emphasis on both data-driven and simulation-based methods.
 
 ---
 
@@ -43,7 +43,7 @@ Sept. 2019 – May 2023
 
 ### Institutional
 
-- Kellogg Fellowship ($90,000 over three years), *Amherst College* (2025–28)
+- Kellogg Fellowship ($130,000 over three years), *Amherst College* (2025–28)
 - Three Minute Thesis, People’s Choice Award, *Amherst College* (2023)
 - Bancroft Prize in Public Speaking, *Amherst College* (2023)
 - William Warren Stifler Prize in Physics, *Amherst College* (2023)
@@ -56,11 +56,16 @@ Sept. 2019 – May 2023
 
 ## Publications
 
-1. **C. Plunkett**, T. Callister, M. Zevin, S. Vitale.  
-   [“Signatures of a subpopulation of hierarchical mergers in the GWTC-4 gravitational-wave dataset”](https://arxiv.org/abs/2601.07908).  
-   Submitted to *Physical Review Letters* (2026).
+6. **C. Plunkett**, T. Callister, M. Zevin, S. Vitale.  
+   [“Signatures of a subpopulation of hierarchical mergers in the GWTC-4 gravitational-wave dataset”](https://journals.aps.org/prl/abstract/10.1103/n6p4-ftgq).  
+   *Physical Review Letters* **137**, 021404 (2026).  
+   *Highlighted as a Phys. Rev. Lett. Editors' Suggestion, covered in a [Physics Viewpoint](https://physics.aps.org/articles/v19/96), and written up in [Astrobites](https://astrobites.org/2026/05/09/many-mergers-might-fill-mass-gap/).*
 
-2. **C. Plunkett**, M. Mould, S. Vitale.  
+5. M. Mould, J. Heinzel, S. Álvarez-López, **C. Plunkett**, N. Wolfe, S. Vitale.  
+   “Measurement prospects for the pair-instability mass cutoff with gravitational waves.”  
+   *Physical Review D* **113**, 103021 (2026).
+
+4. **C. Plunkett**, M. Mould, S. Vitale.  
    [“Constraining Population III stellar populations with next-generation gravitational-wave observatories”](https://journals.aps.org/prd/abstract/10.1103/jv8h-4ggy).  
    *Physical Review D* **112**, 023039 (2025).
 
@@ -68,11 +73,11 @@ Sept. 2019 – May 2023
    [“Accreting companion occurrence rates using a new method to compute emission-line survey sensitivity”](https://iopscience.iop.org/article/10.3847/1538-3881/adc09d).  
    *Astronomical Journal* **169**, 262 (2025).
 
-4. **C. Plunkett**, S. Hourihane, K. Chatziioannou.  
+2. **C. Plunkett**, S. Hourihane, K. Chatziioannou.  
    [“Concurrent estimation of noise and compact-binary signal parameters in gravitational-wave data”](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.104021).  
    *Physical Review D* **106**, 104021 (2022).
 
-5. S. Betti *et al.*, including **C. Plunkett**.  
+1. S. Betti *et al.*, including **C. Plunkett**.  
    “The Comprehensive Archive of Substellar and Planetary Accretion Rates.”  
    *Astronomical Journal* **166**, 262 (2023).
 
@@ -80,11 +85,23 @@ Sept. 2019 – May 2023
 
 ## Presentations
 
+**AAS 248 Summer Meeting (invited talk, special session)** — *Pasadena, CA*  
+*Next-generation gravitational-wave observatories: astrophysics with compact binaries across cosmic time*  
+June 2026
+
+**Caltech LIGO Seminar** — *Pasadena, CA*  
+*Black hole formation histories with gravitational waves across cosmic time*  
+June 2026
+
 **APS Global Physics Summit (contributed talk)** — *Denver, CO*  
 *What we talk about when we talk about hierarchical mergers*  
 Mar. 2026
 
-**University of Tokyo RESCEU Seminar** — *Tokyo, Japan*  
+**WPI Physics** — *Worcester, MA*  
+*Panelist, Women and Gender Minorities in Physics*  
+Feb. 2026
+
+**University of Tokyo RESCEU Seminar** — *Tokyo, JP*  
 *Black hole populations with gravitational waves: then, now, and the future*  
 Jan. 2026
 
@@ -114,13 +131,9 @@ Jan. 2024 – present
 - Serve on admissions committee for a summer program targeting students with limited access to research.  
 - Improve access to career preparation and networking resources.
 
-**MIT Graduate Women in Physics**  
-Oct. 2023 – present  
-- Mentor two undergraduate women.
-
 **Climate and Community Committee**  
 Oct. 2020 – May 2023  
-- Co-chair of a Physics and Astronomy Department committee addressing systemic access issues and institutional barriers to success in physics and astronomy.
+- Co-chair of Physics and Astronomy Dept. committee charged with addressing systemic access issues and institutional barriers to success in physics and astronomy, both in and beyond the Department.
 
 **Spectra Physics & Astronomy Club**  
 Sept. 2021 – May 2023  

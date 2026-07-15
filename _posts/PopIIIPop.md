@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Population properties of Population III stars"
-date:   2012-04-16
+title:  "Demographics of Population III stars using gravitational-waves"
+date:   2026-02-28
 author: Cailin Plunkett
 categories: research
 ---
+
