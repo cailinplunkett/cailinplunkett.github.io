@@ -13,7 +13,7 @@ main_nav: true
     <h1>About</h1>
     <p>I'm a third-year Physics Ph.D. candidate at MIT studying gravitational-wave astrophysics with Salvatore Vitale. I'm exploring black hole populations and binary star evolution with current and next-generation gravitational-wave detectors.</p>
     <p>I grew up in Oakland, CA and majored in Mathematics and Physics at Amherst College, where I graduated summa cum laude in 2023.</p>
-    <p><a href="/CV_26Feb.pdf">View my full CV</a> (updated Feb. 2026).</p>
+    <p><a href="/CV_26July.pdf">View my full CV</a> (updated July 2026).</p>
   </div>
 </div>
 
@@ -22,11 +22,7 @@ main_nav: true
 
   <p>I was raised hiking, biking, and skiing the mountains of California. I love (and miss) the Sierra Nevadas and return for adventures whenever possible. Recently found on mountaintops in California, New Hampshire, and Colorado.</p>
 
-  <p>Mediocre gymnast, cyclist, and runner. Top-notch enjoyer of time with friends and time outside.</p>
-
-  <p>I'm your 2025 MIT Kavli Institute Holiday Bake-off Supreme Grand Champion. My heart lies with cookies.</p>
-
-  <p>I recently knit the <a href="https://www.ravelry.com/patterns/library/rumble-raglan" target="_blank">Rumble Raglan</a> by Lydia Morrow. I rarely go anywhere without my Kindle.</p>
+  <p>Mediocre gymnast, cyclist, and runner. Your 2025 MIT Kavli Institute Holiday Bake-off Supreme Grand Champion. Recently knit the <a href="https://www.ravelry.com/patterns/library/rumble-raglan" target="_blank">Rumble Raglan</a> by Lydia Morrow. Rarely goes anywhere without her Kindle.</p>
 
   <div class="photo-grid">
     <figure class="photo-slot">
