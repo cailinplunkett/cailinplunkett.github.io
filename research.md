@@ -23,11 +23,39 @@ main_nav: true
   <h2>Projects</h2>
 
   <details class="project-item">
-    <summary>Hierarchical mergers in GWTC-4</summary>
+    <summary>What hierarchical mergers can we classify?</summary>
+    <div class="project-body">
+      <p class="project-authors">Plunkett, Zevin, Vitale &middot; <a href="https://arxiv.org/pdf/2610.40774" target="_blank">Submitted to Phys. Rev. D (2026)</a></p>
+      <p><em>We identify trends in the hierarchical mergers that we can successfully classify as such.</em></p>
+      <p>Repeated merging is often talked about as a mechanism to produce massive black holes, which is why the low-mass hierarchical merger candidates GW241011 and GW241110 came as somewhat of a surprise. This motivated the question: should we even expect to confidently measure the properties of high-mass hierarchical mergers?</p>
+      <p>Measurement ability varies across parameter space, and therefore so too does our ability to characterize the origin of particular binary black hole events. We explore the distribution of &ldquo;classifiable&rdquo; hierarchical mergers, taking into account the astrophysical expectation, observational selection effects, and measurement capability. We find mass has little effect on classification, but mass ratio is key.</p>
+      <figure class="project-figure-single">
+        <img src="/assets/research/cmc-pe-both-LR.png" alt="Distribution of simulated and classifiable hierarchical mergers">
+        <figcaption>The distribution of simulated hierarchical mergers (magenta) overlaid with the distribution of hierarchical mergers we can classify by two different metrics (orange, blue).</figcaption>
+      </figure>
+    </div>
+  </details>
+
+  <details class="project-item">
+    <summary>Spinformation: what are we actually measuring about black hole spins?</summary>
+    <div class="project-body">
+      <p class="project-authors">Plunkett, Heinzel, Wolfe, Gerosa, Vitale &middot; <a href="https://arxiv.org/pdf/2610.18973" target="_blank">Submitted to Phys. Rev. D (2026)</a></p>
+      <p><em>We analyze whether we're independently measuring black hole component spins, or extrapolating from measurements of &ldquo;effective&rdquo; parameters.</em></p>
+      <p>Binary black hole spin vectors offer hints about the formation of these systems, but individual spins are poorly measured compared to the effective inspiral spin &chi;<sub>eff</sub>. We present a method to quantify how well our observations are described by the single effective parameter.</p>
+      <p>On GWTC-5, over 80% of events' spin magnitude and direction constraints are well-captured by &chi;<sub>eff</sub> alone. Including a second effective parameter, &chi;<sub>p</sub>, explains the remaining information for all but 3% of events. Put another way: we are not currently measuring four independent spin components, but a two-dimensional reduction. Moreover, we find that the noise realization can create or destroy up to a bit of spin information, indicating that what we measure is strongly influenced by detector noise.</p>
+      <figure class="project-figure-single">
+        <img src="/assets/research/spinformation-distribution.png" alt="Distribution of beyond-effective information in GWTC-5">
+        <figcaption>The distribution of beyond-effective information in GWTC-5. Half of events have less than 0.1 bits of information about their component spins not described by &chi;<sub>eff</sub> alone.</figcaption>
+      </figure>
+    </div>
+  </details>
+
+  <details class="project-item">
+    <summary>Evidence for hierarchical mergers in GWTC-4</summary>
     <div class="project-body">
       <p class="project-authors">Plunkett, Callister, Zevin, Vitale &middot; <a href="https://journals.aps.org/prl/abstract/10.1103/n6p4-ftgq" target="_blank">Phys. Rev. Lett. 137, 021404 (2026)</a></p>
       <p><em>We find evidence for a hierarchical merger subpopulation in the GWTC-4 catalog.</em></p>
-      <p>We can decompose binary black hole spins into the amount <em>aligned</em> with the orbit and the amount <em>perpendicular</em> to the orbit. Repeated black hole mergers populate a distinct shape in this plane. We analyze the population of black-hole mergers with a model that allows for a hierarchical-like component.</p>
+      <p>Repeated black hole mergers have distinct spin characteristics, offering a handle for identifying them in the population. We analyze the demographics of black-hole mergers with a model that allows for a hierarchical-like component.</p>
       <p>We find strong evidence for complex structure in the spin distribution that is consistent with hierarchical formation. Moreover, this structure is mass-dependent. This suggests mechanisms that can produce highly spinning black holes operate at two distinct mass regimes.</p>
       <div class="project-figures">
         <figure class="project-figure">
@@ -43,7 +71,7 @@ main_nav: true
   </details>
 
   <details class="project-item">
-    <summary>Population III stars with next-generation detectors</summary>
+    <summary>Unveiling Population III stars with next-generation detectors</summary>
     <div class="project-body">
       <p class="project-authors">Plunkett, Mould, Vitale &middot; <a href="https://journals.aps.org/prd/abstract/10.1103/jv8h-4ggy" target="_blank">Phys. Rev. D 112, 023039 (2025) </a></p>
       <p><em>We forecast the ability of future observatories like Einstein Telescope and Cosmic Explorer to constrain the demographics of Population III (metal-free) stellar populations.</em></p>
@@ -63,7 +91,7 @@ main_nav: true
   </details>
 
   <details class="project-item">
-    <summary>Noise uncertainty in parameter estimation</summary>
+    <summary>Does noise uncertainty bias our black hole measurements?</summary>
     <div class="project-body">
       <p class="project-authors">Plunkett, Hourihane, Chatziioannou &middot; <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.104021" target="_blank">Phys. Rev. D 106, 104021 (2022)</a></p>
       <p><em>We investigated a method to concurrently estimate noise and compact-binary signal parameters in gravitational-wave data, reducing bias from mismodeled noise.</em></p>

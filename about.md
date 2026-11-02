@@ -11,9 +11,9 @@ main_nav: true
   </div>
   <div class="about-text">
     <h1>About</h1>
-    <p>I'm a third-year Physics Ph.D. candidate at MIT studying gravitational-wave astrophysics with Salvatore Vitale. I'm exploring black hole populations and binary star evolution with current and next-generation gravitational-wave detectors.</p>
+    <p>I'm a fourth-year Physics Ph.D. candidate at MIT studying gravitational-wave astrophysics with Salvatore Vitale. I'm exploring black hole populations and binary star evolution with current and next-generation gravitational-wave detectors.</p>
     <p>I grew up in Oakland, CA and majored in Mathematics and Physics at Amherst College, where I graduated summa cum laude in 2023.</p>
-    <p><a href="/CV_26July.pdf">View my full CV</a> (updated July 2026).</p>
+    <p><a href="/CV_26Nov.pdf">View my full CV</a> (updated November 2026).</p>
   </div>
 </div>
 
